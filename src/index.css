@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #F5F8FD;
+}
+.text-cta{
+    text-shadow: 4px 4px rgba(0, 0, 0, .2);
+}
