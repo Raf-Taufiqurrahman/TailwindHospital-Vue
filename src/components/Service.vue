@@ -5,7 +5,7 @@
                 <h3 class="text-teal-700 text-cta text-5xl font-bold uppercase">Our Services</h3>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
-                <div class="border-2 border-teal-500 flex flex-col p-4 rounded-md bg-[#F5F8FD] box-service">
+                <div class="border-2 border-teal-500 flex flex-col p-4 rounded-md bg-[#F5F8FD] box">
                     <div class="py-3">
                         <i class="fas fa-ambulance text-5xl text-teal-700 mb-4"></i>
                         <h3 class="text-2xl font-semibold text-gray-600">24/7 Ambulance</h3>
@@ -27,7 +27,7 @@
                         </svg>
                     </div>
                 </div>
-                <div class="border-2 border-teal-500 flex flex-col p-4 rounded-md bg-[#F5F8FD] box-service">
+                <div class="border-2 border-teal-500 flex flex-col p-4 rounded-md bg-[#F5F8FD] box">
                     <div class="py-3">
                         <i class="fas fa-notes-medical text-5xl text-teal-700 mb-4"></i>
                         <h3 class="text-2xl font-semibold text-gray-600">Free Checkups</h3>
@@ -49,7 +49,7 @@
                         </svg>
                     </div>
                 </div>
-                <div class="border-2 border-teal-500 flex flex-col p-4 rounded-md bg-[#F5F8FD] box-service">
+                <div class="border-2 border-teal-500 flex flex-col p-4 rounded-md bg-[#F5F8FD] box">
                     <div class="py-3">
                         <i class="fas fa-user-md text-5xl text-teal-700 mb-4"></i>
                         <h3 class="text-2xl font-semibold text-gray-600">Expert Doctors</h3>
@@ -71,7 +71,7 @@
                         </svg>
                     </div>
                 </div>
-                <div class="border-2 border-teal-500 flex flex-col p-4 rounded-md bg-[#F5F8FD] box-service">
+                <div class="border-2 border-teal-500 flex flex-col p-4 rounded-md bg-[#F5F8FD] box">
                     <div class="py-3">
                         <i class="fas fas fa-pills text-5xl text-teal-700 mb-4"></i>
                         <h3 class="text-2xl font-semibold text-gray-600">Medicines</h3>
@@ -93,7 +93,7 @@
                         </svg>
                     </div>
                 </div>
-                <div class="border-2 border-teal-500 flex flex-col p-4 rounded-md bg-[#F5F8FD] box-service">
+                <div class="border-2 border-teal-500 flex flex-col p-4 rounded-md bg-[#F5F8FD] box">
                     <div class="py-3">
                         <i class="fas fa-heartbeat text-5xl text-teal-700 mb-4"></i>
                         <h3 class="text-2xl font-semibold text-gray-600">Total Care</h3>
@@ -115,7 +115,7 @@
                         </svg>
                     </div>
                 </div>
-                <div class="border-2 border-teal-500 flex flex-col p-4 rounded-md bg-[#F5F8FD] box-service">
+                <div class="border-2 border-teal-500 flex flex-col p-4 rounded-md bg-[#F5F8FD] box">
                     <div class="py-3">
                         <i class="fas fa-procedures text-5xl text-teal-700 mb-4"></i>
                         <h3 class="text-2xl font-semibold text-gray-600">Bed Facility</h3>
