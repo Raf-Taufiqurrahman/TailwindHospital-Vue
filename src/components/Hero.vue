@@ -11,7 +11,7 @@
                         placeat.
                     </p>
                     <div
-                        class="flex items-center border-2 p-2 w-fit border-teal-500 shadow-lg hover:bg-teal-500 group transition duration-500 ease-in-out rounded-md">
+                        class="flex items-center border-2 p-2 w-fit border-teal-500 btn hover:bg-teal-500 group transition duration-500 ease-in-out rounded-md">
                         <a href="#" class="leading-relaxed tracking-wider text-teal-500 group-hover:text-white">
                             Contact now
                         </a>

@@ -8,3 +8,11 @@ body{
 .text-cta{
     text-shadow: 4px 4px rgba(0, 0, 0, .2);
 }
+
+.box-service{
+    box-shadow: 5px 5px rgba(22, 160, 133, .2);
+}
+
+.btn{
+    box-shadow: 4px 4px rgba(22, 160, 133, .2);
+}
